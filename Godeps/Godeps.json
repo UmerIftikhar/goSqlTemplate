@@ -1,0 +1,56 @@
+{
+	"ImportPath": "github.com/UmerIftikhar/goSqlAzure",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "cloud.google.com/go/civil",
+			"Comment": "v0.25.0-14-ga55dfc0",
+			"Rev": "a55dfc0b29d5e9df654f451579bb012d9417b14b"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.3.0-21-g95cb1ff",
+			"Rev": "95cb1ffd0769d77c3a2233a260452e85dadc44dc"
+		},
+		{
+			"ImportPath": "github.com/denisenkom/go-mssqldb",
+			"Rev": "242fa5aa1b45aeb9fcdfeee88822982e3f548e22"
+		},
+		{
+			"ImportPath": "github.com/denisenkom/go-mssqldb/internal/cp",
+			"Rev": "242fa5aa1b45aeb9fcdfeee88822982e3f548e22"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.6.2-3-gcb46983",
+			"Rev": "cb4698366aa625048f3b815af6a0dea8aef9280a"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.9.1-9-g0fd395a",
+			"Rev": "0fd395ab37aefd2d50854f0556a4311dccc6f45a"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm/dialects/mssql",
+			"Comment": "v1.9.1-9-g0fd395a",
+			"Rev": "0fd395ab37aefd2d50854f0556a4311dccc6f45a"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Rev": "04140366298a54a039076d798123ffa108fff46c"
+		},
+		{
+			"ImportPath": "github.com/joho/godotenv",
+			"Comment": "v1.2.0-12-g1709ab1",
+			"Rev": "1709ab122c988931ad53508747b3c061400c2984"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/md4",
+			"Rev": "a2144134853fc9a27a7b1e3eb4f19f1a76df13c9"
+		}
+	]
+}
